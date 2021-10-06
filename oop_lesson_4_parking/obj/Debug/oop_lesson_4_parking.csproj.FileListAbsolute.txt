@@ -1,0 +1,7 @@
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\bin\Debug\oop_lesson_4_parking.exe.config
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\bin\Debug\oop_lesson_4_parking.exe
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\bin\Debug\oop_lesson_4_parking.pdb
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\obj\Debug\oop_lesson_4_parking.csproj.AssemblyReference.cache
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\obj\Debug\oop_lesson_4_parking.csproj.CoreCompileInputs.cache
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\obj\Debug\oop_lesson_4_parking.exe
+D:\Données Pauline\Etudes_supérieures\ESILV\DORSET A3 2021-2022\Engineering courses semester 1\POO\oop_lesson_4_parking\obj\Debug\oop_lesson_4_parking.pdb
